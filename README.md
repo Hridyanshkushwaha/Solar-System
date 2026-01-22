@@ -10,14 +10,14 @@ A responsive web visualization of the solar system that lets users explore plane
 
 This project presents an interactive model of our solar system with all eight major planets and Pluto (as a dwarf planet). Each celestial body displays its basic attributes such as **planet name**, **orbital radius**, and **descriptive facts** about the planet and its moons. The interface is designed to be both visually engaging and educational.
 
-The content updates dynamically as users scroll or navigate through planets, providing an intuitive way to learn about solar system objects. :contentReference[oaicite:0]{index=0}
+The content updates dynamically as users scroll or navigate through planets, providing an intuitive way to learn about solar system objects.
 
 ---
 
 ## ✨ Features
 
 - **Responsive Single-Page UI:** Clean layout with easy navigation between planetary sections.
-- **Planetary Information:** Fact blocks for each planet including distance from the Sun (in AU), moons, and descriptions. :contentReference[oaicite:1]{index=1}
+- **Planetary Information:** Fact blocks for each planet including distance from the Sun (in AU), moons, and descriptions. 
 - **No Backend Required:** Fully static — no server or database needed.
 - **Educational Focus:** Content suitable for learners and general audiences interested in basic astronomy.
 
@@ -28,7 +28,7 @@ The content updates dynamically as users scroll or navigate through planets, pro
 - **HTML:** Defines the structure of the solar system content and placeholders for planet descriptions.
 - **CSS:** Implements layout, typography, and responsive design to ensure the UI adjusts smoothly across devices.
 
-Since the entire app is static, all visual content and text are delivered directly in the browser, making it very lightweight and fast to load. :contentReference[oaicite:2]{index=2}
+Since the entire app is static, all visual content and text are delivered directly in the browser, making it very lightweight and fast to load. 
 
 ---
 
